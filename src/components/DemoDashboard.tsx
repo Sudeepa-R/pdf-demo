@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Card, Button, Switch, Space, Typography, Upload, message, Row, Col, Tag } from 'antd';
-import { FilePdfOutlined, UploadOutlined, GithubOutlined, LinkOutlined, ZoomInOutlined, FullscreenOutlined, CodeOutlined, GlobalOutlined, UserOutlined } from '@ant-design/icons';
+import { FilePdfOutlined, UploadOutlined, GithubOutlined, ZoomInOutlined, CodeOutlined, UserOutlined } from '@ant-design/icons';
 import { ReactIPdfViewerLite } from 'react-ipdf-viewer-lite';
 import axios from 'axios';
 import './DemoDashboard.scss';
