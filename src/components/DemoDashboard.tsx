@@ -4,9 +4,9 @@ import { FilePdfOutlined, UploadOutlined, GithubOutlined, ZoomInOutlined, CodeOu
 import { ReactIPdfViewerLite } from 'react-ipdf-viewer-lite';
 import axios from 'axios';
 import './DemoDashboard.scss';
-import pdf1 from "../assets/Get_Started_With_Smallpdf.pdf"
-import pdf2 from "../assets/sample.pdf";
-import pdf3 from "../assets/dummy (1).pdf"
+import pdf3 from "../assets/Get_Started_With_Smallpdf.pdf"
+import pdf1 from "../assets/ChatGPT Image Jun 27, 2025, 10_21_19 PM.pdf";
+import pdf2 from "../assets/react-ipdf-viewer-lite-professional.pdf"
 
 const { Title, Text, Paragraph } = Typography;
 
